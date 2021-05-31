@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class AatkApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AatkApplication.class, args);
+	SpringApplication.run(AatkApplication.class, args);
+	  int i=10;
 	}
 
 }
