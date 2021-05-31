@@ -9,5 +9,6 @@ public class car {
     	  //logic
       }
 	}
+     int i=30;
 
 }
