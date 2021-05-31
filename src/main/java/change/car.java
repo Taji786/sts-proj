@@ -10,5 +10,6 @@ public class car {
       }
 	}
      int i=30;
+     int j=40;
 
 }
