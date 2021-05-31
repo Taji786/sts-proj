@@ -9,5 +9,9 @@ public class car {
     	  //logic
       }
 	}
+     public void stop()
+     {
+       //logic
+     }
 
 }
